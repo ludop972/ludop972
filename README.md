@@ -1,0 +1,5 @@
+- 👋 Hi, I’m PRIANT Ludovic
+- 👀 I’m interested in Front/Back technologies of the web 
+- 🌱 I’m currently learning JS/React
+- 💞️ I’m looking to collaborate on good thinds for level up in programming
+- 📫 How to reach me : priant.ludovic@hotmail.fr
